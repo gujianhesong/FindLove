@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+  <!-- 阅读列表分栏 -->
+  <com.pinery.findlove.ui.widget.ViewPagerTabs
+      android:id="@+id/vpTab_reader"
+      android:layout_width="match_parent"
+      android:layout_height="36dp"
+      android:layout_gravity="top"
+      android:background="@color/colorPrimaryDark"
+      android:elevation="0dp"
+      android:orientation="horizontal"
+      android:outlineProvider="none"
+      android:textAllCaps="true"
+      style="@style/pagerTabStyle"
+      />
+
+  <!-- 阅读分栏页面 -->
+  <android.support.v4.view.ViewPager
+      android:id="@+id/vp_reader"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      />
+
+</LinearLayout>
