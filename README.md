@@ -3,6 +3,6 @@
 
 使用百度识图的接口，可以识别找到包括百度百科，图片来源，相同大小，相关关图片等内容。
 
-[1]: /capture/device-2018-08-05-230104.png
-[2]: /capture/device-2018-08-05-230117.png
-[3]: /capture/device-2018-08-05-230149.png
+![](https://raw.githubusercontent.com/gujianhesong/FindLove/master/capture/device-2018-08-05-230104.png)
+![](https://raw.githubusercontent.com/gujianhesong/FindLove/master/capture/device-2018-08-05-230117.png)
+![](https://raw.githubusercontent.com/gujianhesong/FindLove/master/capture/device-2018-08-05-230149.png)
